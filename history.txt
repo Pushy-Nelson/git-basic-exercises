@@ -1,0 +1,124 @@
+    1  apk update
+    2  pwd
+    3  ls
+    4  mkdir git-basic-execirse
+    5  mkdir git-basic-exercise
+    6  cd git-basic-exercise
+    7  ls
+    8  git init
+    9  ls
+   10  git status
+   11  touch README.md
+   12  ls
+   13  git status
+   14  git log
+   15  git add README.md
+   16  git status
+   17  git log
+   18  git add ReadME.md
+   19  git status
+   20  git commit -m "initial commit"
+   21  git log
+   22  mkdir git-basic-exercise
+   23  cd git basic exercise
+   24  clear
+   25  mkdir git-basic-exercise
+   26  cd git-basic-exercise
+   27  ls -a
+   28  git init
+   29  ls -a
+   30  git status
+   31  touch README.md
+   32  ls -a
+   33  git status
+   34  git log
+   35  git add README.md
+   36  git status
+   37  git commit -m "innitial commit"
+   38  mkdir git-basic-exercise
+   39  cd git-basic-exercise
+   40  ls -a
+   41  git init
+   42  ls -a
+   43  git status
+   44  git log
+   45  touch README.md
+   46  ls -a
+   47  git status
+   48  git log
+   49  git add README.md
+   50  git status
+   51  git commit -m "initial commit"
+   52  git log
+   53  exit [n]
+   54  nano README.md
+   55  cat README.md
+   56  git status
+   57  nano README.md
+   58  cat README.md
+   59  git status
+   60  git log
+   61  mkdir git-basic-exercises
+   62  cd git-basic-excercises
+   63  cd git-basic-exercises
+   64  ls -a
+   65  git init
+   66  ls -a
+   67  git status
+   68  touch README.md
+   69  ls -a
+   70  git status
+   71  git log
+   72  git add README.md
+   73  git status
+   74  git commit -m "initial commit"
+   75  git log
+   76  press q to exit
+   77  q
+   78  Press Q to exit
+   79  "Press Q to exit \t\t:"
+   80  nano README.md
+   81  cat README.md
+   82  git status
+   83  nano README.md
+   84  cat README.md
+   85  git log
+   86  nano README.md
+   87  cat README.md
+   88  git status
+   89  git log
+   90  q
+   91  sudo apt install python3-q-text-as-data
+   92  sudo apt-get update
+   93  sudo apt-get install -y python3-pip
+   94  sudo apt install python3-q-text-as-data
+   95  q
+   96  git log
+   97  q
+   98  nano README.md
+   99  cat README.md
+  100  git status
+  101  git commit -am "second commit"
+  102  nano README.md
+  103  cat README.md
+  104  git commit -am "third commit"
+  105  git log
+  106  q
+  107  git checkout
+  108  f4cc2fbfbb2c4367360ba0361c394db43ded2954
+  109  git checkout f4cc2fbfbb2c4367360ba0361c394db43ded2954
+  110  cat README.md
+  111  git branch
+  112  git branch milkshake-flavours
+  113  git branch
+  114  git checkout milkshake-flavours
+  115  nano milkshake.md
+  116  git status
+  117  git commit -am "second branch"
+  118  git commit -am "added milkshake-flavours"
+  119  git checkout -b <milkshake-flavours>
+  120  git checkout master
+  121  git branch history
+  122  git log
+  123  git branch
+  124  history > history.txt
